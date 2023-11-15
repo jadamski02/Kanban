@@ -1,0 +1,31 @@
+[
+  {   "id": 1,
+      "tytul": "Przeczytać <b>książkę</b>",
+      "opis": "Muszę przeczytać całą książkę o JavaScript",
+      "status": "in-progress",
+      "kolor": "red",
+      "zadania": [] },
+  {   "id": 2,
+      "tytul": "Napisać trochę kodu",
+      "opis": "Muszę się wprawić w pisaniu FRONT-END",
+      "status": "todo",
+      "kolor": "blue",
+      "zadania": [
+      {   "id": 1,
+          "nazwa": "React.js",
+          "zrobione": true },
+      {   "id": 2,
+          "nazwa": "Next.js",
+          "zrobione": false },
+      {   "id": 3,
+          "nazwa": "Mój własny przykład",
+          "zrobione": false }
+    ] },
+  {
+      "id": 3,
+      "tytul": "Opanować BACK-END",
+      "opis": "Muszę nauczyć się pisać BACK-END w Springu",
+      "status": "done",
+      "kolor": "green",
+      "zadania": [] }
+]
